@@ -1,0 +1,2 @@
+# veribilimiproje
+veri bilimi
